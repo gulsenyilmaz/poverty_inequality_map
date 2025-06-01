@@ -79,7 +79,17 @@ with tab1:
             title="Poverty vs Female Life Expectancy",
             hover_name="name"
         )
+
+        fig2_legend = {'x': 1, 'y': 0.9, 
+                       "title": "",
+            'bgcolor': 'rgb(0, 0, 0)',
+            'bordercolor': 'rgb(160, 240, 201)',
+            'borderwidth': 2}
+
+        # Update the figure
+        fig2.update_layout({'showlegend': True, 'legend': fig2_legend})
         st.plotly_chart(fig2, use_container_width=True)
+
 
 with tab2:
     with open("data/uk_regions.geojson", "r", encoding="utf-8") as f:
