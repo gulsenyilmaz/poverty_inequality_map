@@ -1,0 +1,92 @@
+[
+  {
+    "id": "E12000001",
+    "name": "North East",
+    "population": 2669947,
+    "poverty_rate": 23.5,
+    "life_expectancy_male": 77.5,
+    "life_expectancy_female": 81.3,
+    "child_obesity_rate": 22.1,
+    "mental_health_index": 61.2
+  },
+  {
+    "id": "E12000002",
+    "name": "North West",
+    "population": 7341196,
+    "poverty_rate": 24.1,
+    "life_expectancy_male": 77.2,
+    "life_expectancy_female": 81.0,
+    "child_obesity_rate": 21.4,
+    "mental_health_index": 60.8
+  },
+  {
+    "id": "E12000003",
+    "name": "Yorkshire and The Humber",
+    "population": 5502967,
+    "poverty_rate": 22.8,
+    "life_expectancy_male": 78.0,
+    "life_expectancy_female": 82.0,
+    "child_obesity_rate": 21.9,
+    "mental_health_index": 61.5
+  },
+  {
+    "id": "E12000004",
+    "name": "East Midlands",
+    "population": 4835928,
+    "poverty_rate": 21.7,
+    "life_expectancy_male": 78.4,
+    "life_expectancy_female": 82.3,
+    "child_obesity_rate": 21.2,
+    "mental_health_index": 62.2
+  },
+  {
+    "id": "E12000005",
+    "name": "West Midlands",
+    "population": 5934037,
+    "poverty_rate": 24.6,
+    "life_expectancy_male": 77.6,
+    "life_expectancy_female": 81.5,
+    "child_obesity_rate": 22.3,
+    "mental_health_index": 60.4
+  },
+  {
+    "id": "E12000006",
+    "name": "East of England",
+    "population": 6363264,
+    "poverty_rate": 20.2,
+    "life_expectancy_male": 79.5,
+    "life_expectancy_female": 83.1,
+    "child_obesity_rate": 20.5,
+    "mental_health_index": 64.3
+  },
+  {
+    "id": "E12000007",
+    "name": "London",
+    "population": 8982000,
+    "poverty_rate": 27.0,
+    "life_expectancy_male": 79.7,
+    "life_expectancy_female": 83.2,
+    "child_obesity_rate": 23.6,
+    "mental_health_index": 63.4
+  },
+  {
+    "id": "E12000008",
+    "name": "South East",
+    "population": 9180135,
+    "poverty_rate": 19.1,
+    "life_expectancy_male": 80.4,
+    "life_expectancy_female": 84.0,
+    "child_obesity_rate": 19.6,
+    "mental_health_index": 65.7
+  },
+  {
+    "id": "E12000009",
+    "name": "South West",
+    "population": 5624696,
+    "poverty_rate": 18.5,
+    "life_expectancy_male": 80.1,
+    "life_expectancy_female": 83.6,
+    "child_obesity_rate": 19.2,
+    "mental_health_index": 66.1
+  }
+]
